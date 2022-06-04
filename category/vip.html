@@ -4797,7 +4797,7 @@ VARIABLES
 
             try {
 
-                fetch(`https://discordapp.com/api/guilds/946470161714642964/embed.json`).then(res => res.json()).then(data => setDiscordCount(data.presence_count));
+                fetch(`https://discordapp.com/api/guilds/DISCORD-CONNECT-CONFIG/embed.json`).then(res => res.json()).then(data => setDiscordCount(data.presence_count));
 
             } catch { console.log("Unable to fetch Discord player count from API.") }
 
@@ -4805,7 +4805,7 @@ VARIABLES
 
 
 
-            fetch('https://servers-frontend.fivem.net/api/servers/single/aoz935').then(res=>res.json()).then((out)=>{
+            fetch('https://servers-frontend.fivem.net/api/servers/single/CFX-CONNECT-CONFIG').then(res=>res.json()).then((out)=>{
 
                 $("#online, #ft_online").html('<i class="fas fa-users"></i> ' + out["Data"]["clients"]);
 
