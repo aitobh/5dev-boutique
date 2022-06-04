@@ -9,13 +9,16 @@
   <img src="https://5dev.xyz/assets/img/logofivedev.png" width=100>
   
   # Pour le forum 5dev
+  <div align=left>
+    
   ```
   ◽ Boutique avec extension : Discord and FiveM counter ✅
   ◽ Boutique compatible avec l'API de tebex ✅
-  (ce n'est pas un thème)
+  ❗ (attention, ce n'est pas un thème)
   ◽ Modification des couleurs ✅
   ```
-  
+    
+  </div>
 </div>
 
 ## 🕐 Instructions
