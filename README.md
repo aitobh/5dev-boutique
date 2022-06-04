@@ -27,6 +27,16 @@
 
 ![image](https://user-images.githubusercontent.com/48843742/172000350-8c25e596-a0d8-4c0e-a396-d1e8a0cba883.png)
 
+## ✍ Compteurs :
+```
+CFX-CONNECT-CONFIG
+```
+```
+DISCORD-CONNECT-CONFIG
+```
+
+
+
 
 #### 💀 Copyright
 Je ne suis responsable d'aucun problème de copyrights ou autres.
